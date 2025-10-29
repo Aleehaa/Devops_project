@@ -6,7 +6,7 @@
 }
 
 .page {
-  min-height: 80vh;
+  min-height: 85vh;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -21,7 +21,7 @@
   border: 1px solid rgba(255,255,255,0.15);
   border-radius: 16px;
   padding: 28px;
-  box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.14);
   text-align: center;
 }
 
@@ -63,7 +63,7 @@
 .inputs input[type="number"]:focus {
   border-color: #646cff;
   box-shadow: 0 0 0 3px rgba(100,108,255,0.25);
-  background: rgba(255,255,255,0.12);
+  background: rgba(255,255,255,0.11);
 }
 
 .op {
