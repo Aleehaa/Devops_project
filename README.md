@@ -9,7 +9,7 @@ It was developed as part of our **DevOps Project** to demonstrate the integratio
 ## 🚀 Features
 - Built with **Vite** for fast development and build times  
 - Simple and clean user interface  
-- Adds two input numbers and displays the result instantly  
+- Adds two input numbers and displays result instantly  
 
 ---
 
@@ -26,4 +26,5 @@ It was developed as part of our **DevOps Project** to demonstrate the integratio
 - Azka Humayon 47631 
 
 ---
+
 
