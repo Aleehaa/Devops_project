@@ -14,7 +14,7 @@ It was developed as part of our **DevOps coursework** to demonstrate the integra
 ---
 
 ## 🛠️ Technologies Used
-- **Frontend:** Vite + JavaScript  
+- **Frontend:** React Vite + JavaScript  
 - **Version Control:** Git & GitHub  
 - **Build Tool:** npm  
 
