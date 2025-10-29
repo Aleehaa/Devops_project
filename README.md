@@ -2,7 +2,7 @@
 
 ## 🧮 Project Overview
 This project is a simple **Vite-based web application** that allows users to **add two numbers**.  
-It was developed as part of our **DevOps coursework** to demonstrate the integration of frontend development and version control practices using Git and GitHub.
+It was developed as part of our **DevOps Project** to demonstrate the integration of frontend development and version control practices using Git and GitHub.
 
 ---
 
