@@ -24,7 +24,8 @@ It was developed as part of our **DevOps Project** to demonstrate the integratio
 
 - Aleeha Akhlaq 46174
 - Azka Humayon 47631 
-
+- Mahnoor Asif 44597
+- Hajra Rizwan 45504 
 ---
 
 
